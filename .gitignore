@@ -1,0 +1,17 @@
+# CLion and CMake
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+
+# Binaries
+*.exe
+*.out
+*.obj
+*.dll
+*.so
+
+# Other
+*.log
